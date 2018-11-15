@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))
+* [MyDateFilterPopup.cs](./CS/MyDateFilterPopup.cs) (VB: [MyDateFilterPopup.vb](./VB/MyDateFilterPopup.vb))
+* [MyGridControl.cs](./CS/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/MyGridControl.vb))
+* [MyGridView.cs](./CS/MyGridView.cs) (VB: [MyGridView.vb](./VB/MyGridView.vb))
+* [OrderList.cs](./CS/OrderList.cs) (VB: [OrderList.vb](./VB/OrderList.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [SampleDataSource.cs](./CS/SampleDataSource.cs) (VB: [SampleDataSource.vb](./VB/SampleDataSource.vb))
+<!-- default file list end -->
 # How to add a "Custom" filter item into the date filter popup
 
 
